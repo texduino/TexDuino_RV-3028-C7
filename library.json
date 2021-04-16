@@ -1,0 +1,20 @@
+{
+  "name": "TexDuino_RV-3028-C7",
+  "keywords": "RV-3028-C7, RTC, Clock, Real Time Clock",
+  "description": "Communicate with RV-3028-C7",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/texduino/RV-3028-C7.git"
+  },
+  "version": "1.1",
+  "frameworks": "arduino",
+  "platforms": "",
+  "authors" :
+  [
+     {
+       "name":"TexDuino",
+       "email":"support@TexDuino.com"
+     }
+  ]
+}
