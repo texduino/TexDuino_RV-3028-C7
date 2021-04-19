@@ -6,7 +6,7 @@ https://texduino.com/products/swiss-precision-real-time-clock
 
 For Rasberrry Pi click here: https://github.com/texduino/Raspberry_RV-3028-C7
 
-## Installation
+# Installation
 
 ### Step 1: Make sure you are running the latest Arduino IDE https://www.arduino.cc/en/software
 
